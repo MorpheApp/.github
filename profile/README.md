@@ -1,3 +1,6 @@
+<!-- TODO: Replace with actual logo from morphe-branding repo -->
+![MorpheApp Logo](https://via.placeholder.com/200x60?text=MorpheApp)
+
 # Welcome to MorpheApp 👋
 
 We are building innovative mobile applications and tools for the modern developer community.
