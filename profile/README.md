@@ -21,7 +21,7 @@ With Morphe, the only limit is your imagination. And also the Android API. But m
 
 - 🎯 **Modify apps** — Yes, Morphe can modify apps
 - ✨ **Add new features** — Features that weren't there before? Now they are
-- 🔮 **Remove annoyances** — Things you don't want? Gone. Just like that
+- 🚫 **Remove annoyances** — Things you don't want? Gone. Just like that
 - 🌈 **Anything you want** — Morphe can do it
 
 ## 💫 The Vision
