@@ -23,7 +23,7 @@ With Morphe, the only limit is your imagination. And also the realistic limits o
 - 🛠️ **Add new features** — Features that weren't there before? Now they are
 - 🎨 **Customize the look** — Change the look and feel? Limitless possibilities
 - 🚫 **Remove annoyances** — Things you don't want? Gone. Just like that
-- 🌈 **Anything you want** — Morphe can do it
+- 🚀 **Anything you want** — As long as a patch can do it, Morphe can do it
 
 ## 💫 The Vision
 
