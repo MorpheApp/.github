@@ -20,7 +20,8 @@ Morphe is the revolutionary Android app modification tool that defies the bounda
 With Morphe, the only limit is your imagination. And also the realistic limits of modifying obfuscated bytecode. But mostly your imagination.
 
 - 🎯 **Modify apps** — Yes, Morphe can modify apps
-- ✨ **Add new features** — Features that weren't there before? Now they are
+- 🛠️ **Add new features** — Features that weren't there before? Now they are
+- 🎨 **Customize the look** — Change the look and feel? Limitless possibilities
 - 🚫 **Remove annoyances** — Things you don't want? Gone. Just like that
 - 🌈 **Anything you want** — Morphe can do it
 
