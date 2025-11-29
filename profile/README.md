@@ -13,7 +13,7 @@
 
 This is Morphe. An Android app that modifies other Android apps. And welcome to *you*, who have discovered Morphe.
 
-Morphe is the revolutionary Android app modification tool that defies the boundaries of what you thought was possible. Want to add features to your favorite apps? *Morphe can do that.* Want to remove things you don't like? *Morphe makes it possible.* Want to reshape the very fabric of your Android experience? **The unattainable is unknown to Morphe.**
+Morphe is the revolutionary Android app modification tool that defies the boundaries of what you thought was possible. Want to add features to your favorite apps? *Morphe can do that.* Want to remove things you don't like? *Morphe makes it possible.* Want to reshape the very fabric of your Android experience? **The unattainable is unknown with Morphe.**
 
 ## 🚀 What Can Morphe Do?
 
