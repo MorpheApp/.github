@@ -22,8 +22,8 @@ With Morphe, the only limit is your imagination. And also the realistic limits o
 - 🎯 **Modify apps** — Yes, Morphe can modify apps
 - 🛠️ **Add new features** — Features that weren't there before? Now they are
 - 🎨 **Customize the look** — Change the look and feel? Limitless possibilities
-- 🚫 **Remove annoyances** — Things you don't want? Gone. Just like that
-- 🚀 **Anything you want** — As long as a patch can do it, Morphe can do it
+- 🚫 **Remove annoyances** — Things you don't want? Gone. Annoyances become 1 / infinity
+- 🚀 **Anything you want** — If a patch can do it, Morphe can do it
 
 ## 💫 The Vision
 
