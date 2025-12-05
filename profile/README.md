@@ -1,5 +1,3 @@
-<div align="center">
-
 ## This is Morphe
 
 You can do anything with Morphe. Anything at all.
@@ -7,8 +5,6 @@ You can do anything with Morphe. Anything at all.
 The infinite is obtainable, with Morphe
 
 The unknown is not known, with Morphe.
-
-</div>
 
 ## 🌟 The Infinite Possibility Engine
 
@@ -33,7 +29,7 @@ With Morphe, the only limit is your imagination. And also the realistic limits o
 - 🎨 **Customize the look** — Change the look and feel? Limitless possibilities.
 - 🚫 **Remove annoyances** — Things you don't want? they become 1 / infinity.
 
-## 🤔Who is Morphe?
+## 🤔 Who is Morphe?
 Morphe is the infinite of known and unknown. The question is not who is, but who is not Morphe?
 
 ## 📫 Join the Revolution
