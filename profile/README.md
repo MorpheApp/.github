@@ -3,7 +3,7 @@
     <source
       width="256px"
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/KobeW50/morphe-github/01a828b3f260c9d33383ee91852442d8ba207fff/profile/assets/morphe-wordmark/morphe_wordmark_dark.svg?token=AUFLI4BQS7XWBQ6E6YKK6PLJKMX3Q"
+      srcset="assets/morphe-wordmark/morphe_wordmark_dark.svg"
     />
     <img 
       width="256px"
