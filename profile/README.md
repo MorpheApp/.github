@@ -3,11 +3,11 @@
     <source
       width="256px"
       media="(prefers-color-scheme: dark)"
-      srcset="assets/morphe-wordmark/morphe_wordmark_dark.svg"
+      srcset="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/morphe-wordmark/morphe_wordmark_dark.svg"
     />
     <img 
       width="256px"
-      src="assets/morphe-wordmark/morphe_wordmark_light.svg"
+      src="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/morphe-wordmark/morphe_wordmark_light.svg"
     />
 </picture>
 
