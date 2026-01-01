@@ -1,12 +1,12 @@
 <div align="center"> 
 <picture>
     <source
-      width="256px"
+      width="512px"
       media="(prefers-color-scheme: dark)"
       srcset="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/morphe-wordmark/morphe_wordmark_dark.svg"
     />
     <img 
-      width="256px"
+      width="512px"
       src="https://raw.githubusercontent.com/MorpheApp/.github/refs/heads/main/profile/assets/morphe-wordmark/morphe_wordmark_light.svg"
     />
 </picture>
