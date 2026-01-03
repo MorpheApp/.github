@@ -32,6 +32,6 @@ Build new functionality, remove limitations, and tailor apps to your needs.
 
 ## 👥 Community
 
-Morphe started as a hard fork of ReVanced and has since evolved into an independent, community-driven project.
+Morphe is an independent project based on prior work from [ReVanced](https://github.com/ReVanced).
 
 Issues, ideas, and contributions are always welcome.
