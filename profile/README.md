@@ -16,7 +16,11 @@
 </div> 
 
 &nbsp;
-# [Click here to download Morphe](https://morphe.software)
+<p align="center">
+  <a href="https://morphe.software" title="Download Morphe">
+    <img src="https://github.com/MorpheApp/.github/blob/download-button/profile/assets/download-morphe.svg" alt="Download Morphe" width="240"/>
+  </a>
+</p>
 &nbsp;
 
 ## 🧩 This is Morphe
